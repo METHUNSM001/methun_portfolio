@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/methun_portfolio/static/css/main.d3ccc2f6.css",
+    "main.js": "/methun_portfolio/static/js/main.e4ed5024.js",
+    "static/js/453.11f6fa56.chunk.js": "/methun_portfolio/static/js/453.11f6fa56.chunk.js",
+    "static/media/nptel1.jpg": "/methun_portfolio/static/media/nptel1.8aa7739a0e15904703b4.jpg",
+    "static/media/profile.jpg": "/methun_portfolio/static/media/profile.3bd68c7f3a0909429ddf.jpg",
+    "static/media/greenidea.jpg": "/methun_portfolio/static/media/greenidea.4c432b77431c31722179.jpg",
+    "static/media/svhecai.jpg": "/methun_portfolio/static/media/svhecai.1e5073b5edb1b39f004e.jpg",
+    "static/media/uiuxbit.jpg": "/methun_portfolio/static/media/uiuxbit.f832da4cc18233a9a3b4.jpg",
+    "static/media/uiuxaru.jpg": "/methun_portfolio/static/media/uiuxaru.b134928d0f6b5f796805.jpg",
+    "static/media/era.jpg": "/methun_portfolio/static/media/era.35178d01f0fbc29914c3.jpg",
+    "static/media/hpaibus.jpg": "/methun_portfolio/static/media/hpaibus.09128dd4f32806f724fb.jpg",
+    "static/media/intership.jpg": "/methun_portfolio/static/media/intership.291aa66dd69645dd77e0.jpg",
+    "index.html": "/methun_portfolio/index.html",
+    "main.d3ccc2f6.css.map": "/methun_portfolio/static/css/main.d3ccc2f6.css.map",
+    "main.e4ed5024.js.map": "/methun_portfolio/static/js/main.e4ed5024.js.map",
+    "453.11f6fa56.chunk.js.map": "/methun_portfolio/static/js/453.11f6fa56.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3ccc2f6.css",
+    "static/js/main.e4ed5024.js"
+  ]
+}

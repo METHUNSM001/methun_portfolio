@@ -1,0 +1,75 @@
+/* =========================
+   ABOUT SECTION
+========================= */
+.about {
+  padding: 100px 20px;
+  background: #060006;
+  text-align: center;
+  color: #ffffff;
+}
+
+/* =========================
+   SECTION TITLE
+========================= */
+.about h2 {
+  font-size: 38px;
+  margin-bottom: 30px;
+  color: #b934de;
+  letter-spacing: 1px;
+}
+
+/* =========================
+   ABOUT TEXT CARD
+========================= */
+.about p {
+  max-width: 700px;
+  margin: 0 auto;
+
+  padding: 26px 24px;
+  font-size: 16px;
+  line-height: 1.7;
+
+  background: rgba(255, 255, 255, 0.035);
+  backdrop-filter: blur(8px);
+
+  border-radius: 14px;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.6);
+
+  color: rgba(255, 255, 255, 0.9);
+
+  animation: fadeUp 0.8s ease forwards;
+}
+
+/* Hover effect */
+.about p:hover {
+  transform: translateY(-6px);
+  transition: transform 0.3s ease;
+}
+
+/* =========================
+   ANIMATION
+========================= */
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(25px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* =========================
+   RESPONSIVE
+========================= */
+@media (max-width: 768px) {
+  .about h2 {
+    font-size: 30px;
+  }
+
+  .about p {
+    font-size: 15px;
+    padding: 22px 20px;
+  }
+}

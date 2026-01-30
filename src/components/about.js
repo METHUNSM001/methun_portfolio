@@ -6,10 +6,7 @@ function About() {
     <section id="about" className="about">
       <h2>About Me</h2>
       <p>
-        I am a Computer Science Engineering student passionate about web
-        development and software programming. I enjoy learning new technologies,
-        building creative projects, and contributing to innovative solutions
-        while continuously improving my technical skills.
+        I am a Computer Science Engineering student with a strong interest in data engineering and web development. I enjoy building data-driven web applications, designing efficient data pipelines, and working with databases to transform raw data into meaningful insights. I am passionate about learning modern data technologies and continuously improving my backend and data processing skills.
       </p>
     </section>
   );

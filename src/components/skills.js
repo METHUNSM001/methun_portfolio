@@ -12,7 +12,8 @@ function Skills() {
 
     <div className="skill-group">
       <h3>Programming</h3>
-      <p>Python(pandas,numpy,matplotlib,seaborn), C</p>
+      <p>Python (pandas,numpy,matplotlib,seaborn)</p>
+      <p>c language</p>
     </div>
 
     <div className="skill-group">
@@ -22,7 +23,7 @@ function Skills() {
 
     <div className="skill-group">
       <h3>Other Skills</h3>
-      <p>UI/UX Design, Figma, Canva, Prompt Writing</p>
+      <p>Canva, Prompt Writing</p>
     </div>
   </div>
 </section>

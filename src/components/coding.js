@@ -14,7 +14,7 @@ function Coding() {
           className="pythoncoding-link"
         >
           <div className="coding-card">
-            <h3>Python Coding</h3>
+            <h3>Python Coding related to Data Engineering</h3>
           </div>
         </a>
 

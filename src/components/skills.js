@@ -12,7 +12,7 @@ function Skills() {
 
     <div className="skill-group">
       <h3>Programming</h3>
-      <p>Python, C</p>
+      <p>Python(pandas,numpy,matplotlib,seaborn), C</p>
     </div>
 
     <div className="skill-group">

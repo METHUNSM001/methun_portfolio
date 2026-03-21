@@ -6,7 +6,9 @@ function About() {
     <section id="about" className="about">
       <h2>About Me</h2>
       <p>
-        I am a Computer Science Engineering student with a strong interest in data engineering and web development. I enjoy building data-driven web applications, designing efficient data pipelines, and working with databases to transform raw data into meaningful insights. I am passionate about learning modern data technologies and continuously improving my backend and data processing skills.
+        I am an aspiring Data Engineer with a strong foundation in Python and SQL, focused on building efficient and scalable data pipelines. I enjoy working with real-world data, transforming raw datasets into meaningful insights, and designing backend systems that support data-driven applications.
+        
+        I am continuously learning modern data technologies and improving my skills in data processing, database management, and system design. My goal is to develop reliable data solutions that solve real-world problems and create impact.
       </p>
     </section>
   );

@@ -38,7 +38,7 @@ function Contact() {
 
         {/* LinkedIn */}
         <a
-          href="https://www.linkedin.com/in/s-m-methun-2a02a034a"
+                href="https://www.linkedin.com/in/s-m-methun-853aa43b8?utm_source=share_via&utm_content=profile&utm_medium=member_android"
           target="_blank"
           rel="noreferrer"
           className="contact-card"
